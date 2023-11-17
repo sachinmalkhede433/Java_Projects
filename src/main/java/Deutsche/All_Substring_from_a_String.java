@@ -3,7 +3,7 @@ package Deutsche;
 public class All_Substring_from_a_String {
     public static void main(String[] args) {
 
-        String str = "FUN";
+        String str = "Information";
         int len = str.length();
         int temp = 0;
         //Total possible subsets for string of size n is n*(n+1)/2
