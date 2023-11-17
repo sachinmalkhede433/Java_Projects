@@ -25,4 +25,3 @@ public class All_Substring_from_a_String {
         }
     }
 }
-//adding new line for pulling into local
