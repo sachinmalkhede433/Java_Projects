@@ -11,6 +11,7 @@ public class Factorial {
             fact=fact*num;
 
             num--;
+            //Welcome to my Local function
         }
         System.out.println(fact);
 
@@ -18,5 +19,7 @@ public class Factorial {
         //checking stash for intellij
         //Adding changes from github
         //hello dosto welcome to github
+
+        //Welcome to my Local function
     }
 }
