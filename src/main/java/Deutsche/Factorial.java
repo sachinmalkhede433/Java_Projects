@@ -13,8 +13,7 @@ public class Factorial {
             num--;
             //Welcome to my Local function
 
-            //Adding some thing in  function in github
-            //Hello dosto commiting from GITHUB
+            //Deleting some thing in  function in github
         }
         System.out.println(fact);
     }
