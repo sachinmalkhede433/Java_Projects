@@ -14,6 +14,7 @@ public class Factorial {
         }
         System.out.println(fact);
 
-        //checking stash from intellij
+        //checking stash for intellij
+        //Adding changes from github
     }
 }
