@@ -35,6 +35,8 @@ public class NumberTrianglePattern {
             // By now we reach end for one row, so
             // new line to switch to next
             System.out.println();
+
+            //Adding here from GITHUB
         }
     }
 }

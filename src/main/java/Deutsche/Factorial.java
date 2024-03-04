@@ -13,6 +13,7 @@ public class Factorial {
             num--;
             //Welcome to my Local function
 
+            //Deleting some thing in  function in github
             //Adding some thing in  function in github
 
 
