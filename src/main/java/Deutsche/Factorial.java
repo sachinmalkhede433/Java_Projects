@@ -12,14 +12,15 @@ public class Factorial {
 
             num--;
             //Welcome to my Local function
+
+            //Adding some thing in  function in github
         }
         System.out.println(fact);
 
-        //Hello Im adding change from my local intellij
         //checking stash for intellij
         //Adding changes from github
         //hello dosto welcome to github
 
-        //Welcome to my Local function
+        //This is GITHUB______________
     }
 }
