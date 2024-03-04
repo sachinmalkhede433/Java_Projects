@@ -3,6 +3,7 @@ package Deutsche;
 public class NumberTrianglePattern {
     public static void main(String[] args)
     {
+        //Change from Local
         int num = 5;
         int x = 0;
 
