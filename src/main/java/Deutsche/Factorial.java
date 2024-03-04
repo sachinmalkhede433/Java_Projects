@@ -14,6 +14,7 @@ public class Factorial {
             //Welcome to my Local function
 
             //Adding some thing in  function in github
+            //Hello dosto commiting from GITHUB
         }
         System.out.println(fact);
     }
