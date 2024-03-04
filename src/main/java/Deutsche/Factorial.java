@@ -13,5 +13,7 @@ public class Factorial {
             num--;
         }
         System.out.println(fact);
+
+        //checking stash from intellij
     }
 }
