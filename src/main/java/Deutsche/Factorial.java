@@ -16,11 +16,5 @@ public class Factorial {
             //Adding some thing in  function in github
         }
         System.out.println(fact);
-
-        //checking stash for intellij
-        //Adding changes from github
-        //hello dosto welcome to github
-
-        //This is GITHUB______________
     }
 }
