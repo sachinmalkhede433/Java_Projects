@@ -32,8 +32,6 @@ public class NumberTrianglePattern {
                         ? (i + x - j) + "  "
                         : (i + x - j) + " ");
 
-            // By now we reach end for one row, so
-            // new line to switch to next
             System.out.println();
 
             //Adding here from GITHUB
