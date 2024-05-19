@@ -34,7 +34,7 @@ public class NumberTrianglePattern {
 
             System.out.println();
 
-            //Adding here from GITHUB
+            //Remove code on 19th May
         }
     }
 }
