@@ -1,25 +1,25 @@
 package Deutsche;
 
 public class trial {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        int[] numbers= {1000,52,8,14,99,277,155,9996};
+        String input = "saCHiN";
+        String toggle="";
 
-        int largest = numbers[0];
+        for(int i=0; i<input.length(); i++){
 
-        for(int i=1; i<numbers.length; i++){
+            char ch = input.charAt(i);
 
-            if(numbers[i]>largest){
-                largest=numbers[i];
+            if(ch>='A' && ch<='Z'){
+                toggle+= (char) (ch + 32);
+            }else if(ch>='a' && ch<= 'z'){
+                toggle+= (char)(ch-32);
+            }else{
+                toggle+=  ch;
             }
         }
-
-        System.out.println("Largest number = " + largest);
-
-
-
-
-
-
+System.out.println(input + " Converted into " + toggle);
     }
+
 }
+
