@@ -1,6 +1,6 @@
 package Deutsche;
 
-public class trial {
+public class Uppercase_Lowercase {
     public static void main(String[] args) {
 
         String input = "saCHiN";
